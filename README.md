@@ -1,9 +1,6 @@
 # Task 1 : Advanced-File-Integrity-Checker
 ---
 
-# Advanced File Integrity Checker
-
-## Project Overview
 **Title:** Advanced File Integrity Checker  
 **Developer:** Suraj Borkute  
 **Company:** Codtech IT Solutions  
@@ -11,8 +8,7 @@
 **Domain:** Cyber Security & Ethical Hacking  
 **Duration:** Dec 2024 to Jan 2025  
 **Mentor:** Neela Santosh Kumar
-# Title: Advanced-File-Integrity-Checker
-
+ ## Project Overview
 This project aims to provide an advanced solution for monitoring file integrity by utilizing various hashing algorithms and offering additional features such as email notifications, logging, and configurable intervals.
 
 
@@ -146,10 +142,10 @@ Contact
 
 ### Email: [surajborkute9881392842@gmail.com]
 
-### 🔗 Links
+🔗 Links
 For questions or inquiries, feel free to contact us:
 
-[LinkedIn Profile]: (https://www.linkedin.com/in/suraj-borkute-512665341)
+### [LinkedIn Profile]: (https://www.linkedin.com/in/suraj-borkute-512665341)
 
 
 ## Contribution
